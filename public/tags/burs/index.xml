@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>burs on İsmail Bekar</title>
+    <link>/tags/burs/</link>
+    <description>Recent content in burs on İsmail Bekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/burs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>İsviçre Hükümeti Mükemmeliyet Bursu</title>
+      <link>/posts/burs/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/burs/</guid>
+      <description>Türkçe çevirisi düzgün oldu mu bilmiyorum ama orjinal adı Swiss Government Excellence Scholarship. Yaklaşık bir sene önce bu bursla İsviçre’ye gelip doktoraya başladım. Sonrasında tanıdık tanımadık bir çok insana bursla ilgili sorularını cevaplayıp, bilgi verdim ve en sonunda rehberimsi bir şey hazırlamanın faydalı olacağına karar verdim.
+Başlamadan önce küçük bir uyarı: bu bilgilerin hepsi benim bursu kazandığım 2016 yılına ait. Yeni başvurular Eylül ayında başlayacak ve yeni bilgileri yayınladığında bazı değişiklikler olabilir.</description>
+    </item>
+    
+    <item>
+      <title>TAF Network ekibiyle Youtube röportajı</title>
+      <link>/posts/r%C3%B6portaf/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/r%C3%B6portaf/</guid>
+      <description>TAF Network ekibi ile yurt dışındaki bilim insanlarıyla gerçekleştirdikleri söyleşi zinciri kapsamında bir röportaj gerçekleştirdik.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

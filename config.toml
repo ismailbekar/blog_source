@@ -1,0 +1,58 @@
+baseURL = "https://ismailbekar.github.io"
+languageCode = "en-us"
+title = "İsmail Bekar"
+theme = "ezhil"
+
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-18096163-5"
+disqusShortname = "localhost"
+
+[params]
+	subtitle = "My personal website"
+	# Number of posts to show in recent posts list.
+	recentPostsCount = 10
+	# Content types which are excluded from recent posts and archive page.
+	excludedTypes = ["page"]
+	disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blog"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/ismailbekar"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/fire_ecologist"
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://instagram.com/fire_ecologist"
+
+[taxonomies]
+   tag = "tags"

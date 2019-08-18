@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R programlama on İsmail Bekar</title>
+    <link>/tags/r-programlama/</link>
+    <description>Recent content in R programlama on İsmail Bekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-programlama/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>R ile Github üzerinden internet sitesi oluşturmak</title>
+      <link>/posts/internetsitesi/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/internetsitesi/</guid>
+      <description>Uzun zamandır kişisel bir internet sitesi oluşturmak istiyordum fakat var olan seçenekler arasında kararsız kalmamdan ötürü bunu bir türlü gerçekleştiremedim. Mesela Wordpress&amp;rsquo;i bir türlü sevemedim, Wix gibi alternatifleri ise pahalı buldum, sıfırdan bir web sitesi yaratacak programlama bilgisine ve zamana da sahip değildim. Sonra birden karşıma R için yazılmış olan Blogdown paketi çıktı. Eğer R programlama diline hakimseniz, çok kısa bir süre içinde internet sitesi oluşturmanız mümkün. Üstelik hiç bir masraf yapmadan, yayınlamak da buna dahil.</description>
+    </item>
+    
+  </channel>
+</rss>

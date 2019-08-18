@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on İsmail Bekar</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on İsmail Bekar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>akademi</title>
+      <link>/tags/akademi/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/akademi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>burs</title>
+      <link>/tags/burs/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/burs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doktora</title>
+      <link>/tags/doktora/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/doktora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>İsviçre</title>
+      <link>/tags/isvi%C3%A7re/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/isvi%C3%A7re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R programlama</title>
+      <link>/tags/r-programlama/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-programlama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>röportaj</title>
+      <link>/tags/r%C3%B6portaj/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r%C3%B6portaj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
