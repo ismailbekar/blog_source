@@ -1,4 +1,5 @@
 baseURL = "https://ismailbekar.github.io"
+publishdir = "../ismailbekar.github.io"
 languageCode = "en-us"
 title = "İsmail Bekar"
 theme = "ezhil"
