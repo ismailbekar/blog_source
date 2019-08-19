@@ -3,13 +3,12 @@ title: R ile Github üzerinden internet sitesi oluşturmak
 author: İsmail Bekar
 date: '2018-09-08'
 slug: internetsitesi
-categories:
-  - R programlama
 tags:
   - R programlama
 comments: no
 showcomments: yes
 showpagemeta: yes
+disqus: false
 ---
 
 

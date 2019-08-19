@@ -2,6 +2,7 @@
 date: "2016-10-02T21:37:58+05:30"
 title: About
 type: page
+disqus: false
 ---
 
 
