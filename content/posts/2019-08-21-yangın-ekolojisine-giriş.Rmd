@@ -21,9 +21,9 @@ Orman yangını dendiğinde çoğu insanın kafasında çeşitli insan aktivitel
 </p>
 Fotoğraf 1: Yangından bir ay sonra sürgün veren _Chamaerops humilis_ bitkisi. Kaynak: Juli G. Pausas
 
-Yangının fiziksel olarak ortaya çıkabilmesi için üç gereksinim vardır: tutuşma kaynağı, oksijen ve yanıcı madde. Tutuşma kaynağı (yıldırımlar, volkanik aktiviteler) ve oksijen (yangın için havada %16 oksijen olması yeterli) zaten çok uzun bir zamandır gezegenimizde bulunmakta. Karasal bitkilerin atalarının ilk ortaya çıkışıyla yangın üçgeni adı verilen üç gereksinimden sonuncusu da tamamlanmış oldu. Böylece dünya yangınlara elverişli bir gezegen haline geldi. Bilimsel çalışmalar ilk yangın izlerinin Silüriyen dönemine yani yaklaşık 440 milyon yıl öncesine kadar uzandığını gösteriyor. Bu bilgi yangının çok sık bir şekilde insan aktiviteleriyle ilişkilendiriliyor olmasına rağmen insanların varlığından çok daha eski bir fiziksel olgu olduğunu da gösteriyor.
+Yangının fiziksel olarak ortaya çıkabilmesi için üç gereksinim vardır: tutuşma kaynağı, oksijen ve yanıcı madde. Tutuşma kaynağı (yıldırımlar, volkanik aktiviteler) ve oksijen (yangın için havada %16 oksijen olması yeterli) zaten çok uzun bir zamandır gezegenimizde mevcut. Karasal bitkilerin atalarının ilk ortaya çıkışıyla yangın üçgeni adı verilen üç gereksinimden sonuncusu da tamamlanmış oldu. Böylece dünya yangınlara elverişli bir gezegen haline geldi. Bilimsel çalışmalar ilk yangın izlerinin Silüriyen dönemine yani yaklaşık 440 milyon yıl öncesine kadar uzandığını gösteriyor. Bu bilgi yangının çok sık bir şekilde insan aktiviteleriyle ilişkilendiriliyor olmasına rağmen insanların varlığından çok daha eski bir fiziksel olgu olduğunu da gösteriyor.
 
-Yangının dünya üzerindeki uzun tarihi onun evrimsel bir seçilim gücüne sahip olmasına ve dolayısıyla hem bitkiler hem de hayvanlar üzerinde bazı adaptasyonlara neden olmasına yol açmıştır. Doğal seçilim ve evrim konusunda bilgisi olmayan okuyucular için çok ama çok kısaca şu şekilde özetleyebiliriz: canlılar varlıklarını sürdürmek için yaşadıkları çevresel şartlara uyum sağlamak zorundadır, aksi takdirde varlıklarını o çevrede sürdüremezler. Tabi bütün bu uyum sağlama ve sonucunda geliştirilen adaptasyonlar on, yüzbinlerce hatta milyonlarca yıllık zaman ölçeklerinde gerçekleşiyor. Gelin şimdi canlıların yangına karşı geliştirdiği adaptasyonlardan bir kaçına bakalım:
+Yangının dünya üzerindeki uzun tarihi onun evrimsel bir seçilim gücüne sahip olmasına ve dolayısıyla hem bitkiler hem de hayvanlar üzerinde bazı adaptasyonlara neden olmasına yol açmıştır. Doğal seçilim ve evrim konusunda bilgisi olmayan okuyucular için çok ama çok kısaca şu şekilde özetleyebiliriz: canlılar varlıklarını sürdürmek için yaşadıkları çevresel şartlara uyum sağlamak zorundadır, aksi takdirde varlıklarını o çevrede sürdüremezler. Tabi bütün bu uyum sağlama ve sonucunda ortaya çıkan adaptasyonlar on, yüzbinlerce hatta milyonlarca yıllık zaman ölçeklerinde gerçekleşiyor. Gelin şimdi canlıların yangına karşı geliştirdiği adaptasyonlardan bir kaçına bakalım:
 
 
 **Kalın kabuk**
@@ -83,6 +83,8 @@ Bu yazdıklarım yangın ekolojisine kısa bir giriş niteliğindeydi. Bir sonra
 Eğer yazdıklarımla ilgili kafanızda oluşan bir soru ya da merak ettiğiniz başka şey varsa yazıya yorum yazarak ya da Twitter üzerinden iletebilirsiniz.
 
 _Kaynaklar ve ileri okuma:_
+
+[Bark thickness and fire regime](http://bit.ly/2HkXNvD)
 
 [Burning Story: The Role of Fire in the History of Life](http://bit.ly/2HgVOsk)
 
