@@ -1,5 +1,5 @@
 ---
-title: Yangın Ekolojisine Giriş
+title: Yangın ekolojisine giriş
 author: İsmail Bekar
 date: '2019-08-21'
 slug: yangın-ekolojisine-giriş
@@ -16,6 +16,11 @@ draft: yes
 
 Orman yangını dendiğinde çoğu insanın kafasında çeşitli insan aktivitelerinin sonucunda ortaya çıkan ve yeşil alanların yanıp kül olduğu yıkıcı sahneler geliyordur. Bu çağrışım tamamen doğru olmamakla birlikte biraz da eksik. Okuduğunuz yazı bu eksikliği tek başına dolduramayacak olsa bile o amaçla yazılacak bir dizi yazı serisinin ilk parçası. Girişteki cümlede de ifade edildiği gibi: yangının olmadığı bir dünya yuvarlak olmayan bir küreye benzer, hayal edilemez. İşte bu serinin amacı da yangının aslında ekosistemlerin ayrılmaz bir parçası olduğunu, canlı ve ekosistemlerle nasıl ilişkileri olduğunu açıklığa kavuşturmak. Serinin ilk parçası olan bu gönderi yangınların dünya üzerindeki tarihine, doğal seçilim ve evrimsel süreçle olan ilişkisine kısa bir girişi ve yangının bitki ve hayvanlar üzerindeki etkilerinden bazı örnekleri içeriyor.
 
+<p align="center">
+![](/posts/2019-08-21-yangın-ekolojisine-giriş_files/Chamaerops.jpg){width=50% height=50%}
+</p>
+Fotoğraf 1: Yangından bir ay sonra sürgün veren _Chamaerops humilis_ bitkisi. Kaynak: Juli G. Pausas
+
 Yangının fiziksel olarak ortaya çıkabilmesi için üç gereksinim vardır: tutuşma kaynağı, oksijen ve yanıcı madde. Tutuşma kaynağı (yıldırımlar, volkanik aktiviteler) ve oksijen (yangın için havada %16 oksijen olması yeterli) zaten çok uzun bir zamandır gezegenimizde bulunmakta. Karasal bitkilerin atalarının ilk ortaya çıkışıyla yangın üçgeni adı verilen üç gereksinimden sonuncusu da tamamlanmış oldu. Böylece dünya yangınlara elverişli bir gezegen haline geldi. Bilimsel çalışmalar ilk yangın izlerinin Silüriyen dönemine yani yaklaşık 440 milyon yıl öncesine kadar uzandığını gösteriyor. Bu bilgi yangının çok sık bir şekilde insan aktiviteleriyle ilişkilendiriliyor olmasına rağmen insanların varlığından çok daha eski bir fiziksel olgu olduğunu da gösteriyor.
 
 Yangının dünya üzerindeki uzun tarihi onun evrimsel bir seçilim gücüne sahip olmasına ve dolayısıyla hem bitkiler hem de hayvanlar üzerinde bazı adaptasyonlara neden olmasına yol açmıştır. Doğal seçilim ve evrim konusunda bilgisi olmayan okuyucular için çok ama çok kısaca şu şekilde özetleyebiliriz: canlılar varlıklarını sürdürmek için yaşadıkları çevresel şartlara uyum sağlamak zorundadır, aksi takdirde varlıklarını o çevrede sürdüremezler. Tabi bütün bu uyum sağlama ve sonucunda geliştirilen adaptasyonlar on, yüzbinlerce hatta milyonlarca yıllık zaman ölçeklerinde gerçekleşiyor. Gelin şimdi canlıların yangına karşı geliştirdiği adaptasyonlardan bir kaçına bakalım:
@@ -27,7 +32,7 @@ Yangının dünya üzerindeki uzun tarihi onun evrimsel bir seçilim gücüne sa
 
 ![](/posts/2019-08-21-yangın-ekolojisine-giriş_files/kalınkabuk.jpg){width=30% height=30%}
 </p>
-Fotoğraf 1: Fıstık çamı ( _Pinus pinea_ ). Kaynak: Geographer, Wikipedi
+Fotoğraf 2: Fıstık çamı ( _Pinus pinea_ ). Kaynak: Geographer, Wikipedi
 
 Ağaçların kalın kabuğa sahip olması yangına karşı geliştirilen önemli adaptasyonlardan biri. Kalın kabuğa sahip olmak ağacın sıcaklık izolasyon kapasitesini arttırırken aynı zamanda gövdede yer alan çeşitli dokuların fiziksel olarak korunmasını da sağlar. Yangına karşı adaptasyon geliştiren ve yangını tolere edebilen bu tarz bitkilere *pyrophyte* bitkiler adı verilmiştir.
 
@@ -36,7 +41,7 @@ Ağaçların kalın kabuğa sahip olması yangına karşı geliştirilen önemli
 <p align="center">
 ![](/posts/2019-08-21-yangın-ekolojisine-giriş_files/budanma.jpg){width=90% height=90%}
 
-Fotoğraf 2: Fıstık çamı ormanı. Kaynak: [Eloy Revilla](https://www.flickr.com/photos/revillaeloy/32032763915)
+Fotoğraf 3: Fıstık çamı ormanı. Kaynak: [Eloy Revilla](https://www.flickr.com/photos/revillaeloy/32032763915)
 </p>
 
 Yine bir diğer gövde adaptasyon ise kendiliğinden budanma adı verilen ağacın yüzeye yakın dallarını dökmesi. Bu sayede var olan bir örtü yangının önce bu yüzeye yakın dallara daha sonra da ağacın tamamına sıçraması engellenmiş olur. Gövdede sahip olduğu kalın kabuk da bu yüzey yangınına dayanıklı olacağı için ağaç yangından zarar görmez. 
@@ -44,11 +49,11 @@ Yine bir diğer gövde adaptasyon ise kendiliğinden budanma adı verilen ağac�
 **Yangınla uyarılan çimlenme ve çiçeklenme**
 
 <p align="center">
-![](/posts/2019-08-21-yangın-ekolojisine-giriş_files/Chamaerops.jpg){width=50% height=50%}
+![Bossiaea seedling germination post-fire. Kaynak: Doug Beckers](/posts/2019-08-21-yangın-ekolojisine-giriş_files/9465859267_e09886a8b7_k.jpg){width=70% height=70%}
 </p>
-Fotoğraf 3: Yangından bir ay sonra çimlenen ve hatta çiçek açan _Chamaerops humilis_ bitkisi. Kaynak: Juli G. Pausas
+Fotoğraf 4: Bossiaea seedling germination post-fire. Kaynak: [Doug Beckers](http://bit.ly/2HmSpIt)
 
-Bazı bitkilerin tohumları yangın sırasında oluşan sıcak ve duman ile sahip oldukları dormant hali kırarark çimlenir. Hatta öyle ki bazı tohumlar bu uyaranlar olmadan çimlenmez bile. Fotoğraf bunun etkileyici bir örneğini görebiliyorsunuz eğer daha fazla fotoğraf görmek isterseniz yangın ekolojisinin önde gelen araştırmacılarından biri olan [Juli Pausas’ın web sitesini](http://bit.ly/2Z7Ju8J) ziyaret edebilirsiniz.
+Bazı bitkilerin tohumları yangın sırasında oluşan sıcak ve duman ile sahip oldukları dormant hali kırarark çimlenir. Hatta öyle ki bazı tohumlar bu uyaranlar olmadan çimlenmez bile. Fotoğraf bunun etkileyici bir örneğini görebiliyorsunuz.
 
 **Serotini**
 
