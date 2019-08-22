@@ -34,7 +34,7 @@ Yangının dünya üzerindeki uzun tarihi onun evrimsel bir seçilim gücüne sa
 </p>
 Fotoğraf 2: Fıstık çamı ( _Pinus pinea_ ). Kaynak: Geographer, Wikipedi
 
-Ağaçların kalın kabuğa sahip olması yangına karşı geliştirilen önemli adaptasyonlardan biri. Kalın kabuğa sahip olmak ağacın sıcaklık izolasyon kapasitesini arttırırken aynı zamanda gövdede yer alan çeşitli dokuların fiziksel olarak korunmasını da sağlar. Yangına karşı adaptasyon geliştiren ve yangını tolere edebilen bu tarz bitkilere *pyrophyte* bitkiler adı verilmiştir.
+Ağaçların kalın kabuğa sahip olması yangına karşı geliştirilen önemli adaptasyonlardan biri. Kalın kabuğa sahip olmak ağacın sıcaklık izolasyon kapasitesini arttırırken aynı zamanda gövdede yer alan çeşitli dokuların fiziksel olarak korunmasını da sağlar. Yangına karşı adaptasyon geliştiren ve yangını tolere edebilen bu tarz bitkilere *pyrophyte* bitkiler olarak adlandırılıyor.
 
 **Kendiliğinden budanma**
 
@@ -53,7 +53,7 @@ Yine bir diğer gövde adaptasyon ise kendiliğinden budanma adı verilen ağac�
 </p>
 Fotoğraf 4: Bossiaea seedling germination post-fire. Kaynak: [Doug Beckers](http://bit.ly/2HmSpIt)
 
-Bazı bitkilerin tohumları yangın sırasında oluşan sıcak ve duman ile sahip oldukları dormant hali kırarark çimlenir. Hatta öyle ki bazı tohumlar bu uyaranlar olmadan çimlenmez bile. Fotoğraf bunun etkileyici bir örneğini görebiliyorsunuz.
+Bazı bitkilerin tohumları yangın sırasında oluşan sıcak ve duman ile sahip oldukları dormant halden çıkarak çimleniyor. Hatta öyle ki bazı tohumlar bu uyaranlar olmadan çimlenmiyor. Fotoğrafta yangın sonrası çimlenmiş Bossiaea cinsinden bir tür görüyorsunuz.
 
 **Serotini**
 
@@ -63,7 +63,7 @@ Bazı bitkilerin tohumları yangın sırasında oluşan sıcak ve duman ile sahi
 Fotoğraf 4: Banskia bitkisinin yangın sonrasında açılan kozalakları. Kaynak: [Simone Walsh](https://www.flickr.com/photos/simonewalsh/3869539855)
 
 
-Neredeyse herkesin bildiği gibi bazı bitkiler tohumlarını kozalaklarda saklar. Serotini adı verilen adaptasyon çeşidi bu kozalakların yangın sonrasında açılmasıyla olgunlaşmış tohumların alana yayılmasını ifade ediyor. Böylece hem tohumlar yangın sırasında yüksek sıcaklıktan zarar görmüyor hem de serpilen tohumlar yangın sonrasında uygun çimlenme şartlarından faydalanabiliyor.
+Bir çok insanın da bildiği gibi bazı bitkiler tohumlarını kozalaklarda saklar. Serotini adı verilen adaptasyon çeşidi bu kozalakların yangın sonrasında açılmasıyla olgunlaşmış tohumların alana yayılmasını ifade ediyor. Böylece hem tohumlar yangın sırasında yüksek sıcaklıktan zarar görmüyor hem de serpilen tohumlar yangın sonrasında uygun çimlenme şartlarından faydalanabiliyor.
 
 Son olarak vereceğim adaptasyon bunlardan biraz farklı. İlk fark bu adaptasyonun hayvanlarda görülmesi, ikinci fark ise davranışsal bir adaptasyon olması. Beklemediğiniz yerden geliyor: kuşlar.
 
